@@ -1,2 +1,2 @@
 # OSSP-Assignment
-Solus OS | Hosaena Belay-BDU1601791
+This project is about solus operating system. This assignment includes introduction and history about solus, objective,requirement, installation steps, virtualization and implementation of system call.
